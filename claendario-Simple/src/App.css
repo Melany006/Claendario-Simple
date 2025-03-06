@@ -1,0 +1,19 @@
+.day-name{
+  background-color: #97e1c6
+}
+.main{
+  background-color: #EFEFEF;
+
+}
+
+.day-box div{
+  height: 200px;
+  border: black solid 2px;
+  transition: 0.5s;
+}
+
+.day-box div:hover{
+  background-color: aqua;
+  color: white;
+  box-shadow: 3px 3px 3px rgba(219, 182, 182, 0.91);
+}
